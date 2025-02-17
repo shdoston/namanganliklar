@@ -64,7 +64,7 @@ function List() {
             <div className="qiziq__left-list1">
               <img className="qiziq__img" src="./qiziq__img1.svg" alt="" width={210} height={165} />
               <div className="qiziq-list1-file1">
-                <p className="qiziq-file1__text1">
+                <p className="qiziq-fi">
                   Отопление Ташкента на 30 лет переходит в управление
                   французской Veolia
                 </p>
