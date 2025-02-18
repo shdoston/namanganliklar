@@ -6,12 +6,12 @@ function Home() {
       <div className="container">
         <ul className="header__ul">
           <li className="header__li">
-            <a className="header__a" href="/">
+            <Link className="header__a" href="/">
               Главное
-            </a>
+            </Link>
           </li>
           <li>
-            <Link className="header__a" to="./List">
+            <Link className="header__a" to="/List">
               Интересное
             </Link>
           </li>
