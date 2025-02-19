@@ -71,15 +71,34 @@ function Article() {
            <p className="artic-text"> Уже в настоящий момент собранные в Китайской Народной Республике электрокары Tesla Model Y и Model 3 поставляются на экспорт в Европу.</p>
           <hr className="artic-hr"/>
           <h3 className="artic-po">По вашим интересам</h3>
+          <div className="artic-po-con">
           <div className="artic-btn-container">
            <div className="artic-title-stil">
-            <h4 className="artic-ctil">Стали известны ёмкости аккумуляторов всех моделей iPhone 13</h4>
+            <h4 className="artic-ctil">Стали известны ёмкости аккумуляторов </h4>
             <p className="artic-bo">Во время презентации iPhone 13 Apple придала большое значения...</p>
             <div className="artic-mhg">
               <img src="../public\image-artic4.svg" alt="" />
               <h3 className="artic-digg">Digger.ru 14:25</h3>
             </div>
            </div>
+          </div>
+           <div className="artic-btn-container">
+              <h3 className="artic-title-stil">Nature: ученые смогли доказать природное происхожде</h3>
+              <h3 className="artic-bo">Во время презентации iPhone 13 Apple придала большое значение...</h3>
+              <div className="artic-mhg">
+                <img src="../public\image-artic-l5.svg" alt="" />
+                <p className="artic-digg">Lenta.ru 10:54</p>
+              </div>
+           </div>
+           <div className="artic-btn-container">
+            <h5 className="artic-title-stil">Китайская марка JAC повысила цены на </h5>
+            <p className="artic-bo">Две модели китайского бренда JAC из пяти, представленных на российском...</p>
+            <div className="artic-mhg">
+                <img src="../public\image-artic-l5.svg" alt="" />
+                <p className="artic-digg">Lenta.ru 10:54</p>
+              </div>
+           </div>
+
           </div>
          </div>
           

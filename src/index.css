@@ -663,7 +663,7 @@ margin-bottom: 17px;
 .listl__right{
   width: 100%;
   max-width: 400px;
-  height: 100%;
+  height: 613px;
   background-color: #F6F6F6;
   margin-left: 10px;
   border-radius:10px;
@@ -739,6 +739,10 @@ margin-bottom: 17px;
   margin-top: 50px;
   margin-bottom: 60px;
 }
+.artic-po-con{
+  display: flex;
+  gap: 50px;
+}
 .artic-btn-container{
   width: 100%;
   max-width: 393px;
@@ -746,10 +750,12 @@ margin-bottom: 17px;
   background-color: #F6F6F6;
 padding-top: 20px;
 padding-bottom: 20px;
-padding-right: 8px;
+padding-right: 10px;
+padding-left: 10px;
+
 margin-bottom: 115px;
 }
-.artic-po{
+.artic-bo{
   font-family: 'Rubik',sans-serif;
   font-weight: 500;
   font-size: 24px;
@@ -791,3 +797,127 @@ margin-bottom: 115px;
   font-size: 12px;
   line-height: 14px;
 }
+
+/* contact */
+.asosiy-div{
+  display: flex;
+  margin-top: 20px;
+  gap: 20px;
+}
+.div-asoa{
+  display: flex;
+  flex-direction: column;
+ 
+}
+.contact-input{
+  font-family: 'Rubik',sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+
+  width: 343px;
+  height: 53px;
+  border:  1px solid #00000033;
+  padding-left: 20px;
+  border-radius:10px
+}
+
+.contact-inputf{
+  font-family: 'Rubik',sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+margin-left: 10px;
+  width: 343px;
+  height: 53px;
+  border:  1px solid #00000033;
+  padding-left: 20px;
+  border-radius:10px
+}
+.contact-tekst{
+  font-family: 'Rubik',sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+  width: 696px;
+  height: 55px;
+  border-radius:10px;
+  border:  1px solid #00000033;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+.contast-pl{
+  font-family: 'Rubik',sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #000000;
+  width:696px ;
+  height: 180px;
+  border-radius:10px;
+  border:  1px solid #00000033;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+.contact-btn{
+  font-family: 'Rubik',sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  width: 145px;
+  height: 53px;
+  color: #FFFFFF;
+ background-color:#7297EF;
+margin-bottom: 50px;
+border-radius:10px;
+margin-top: 15px;
+margin-left: 550px;
+}
+
+.contac-hap{
+  font-family: 'Rubik',sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+margin-top: 70px;
+}
+.contact-elek{
+  width: 100%;
+  max-width: 494px;
+  height: 310px;
+  background-color:#F6F6F6;
+  ;
+  padding-left:25px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-radius:10px;
+}
+  .contact-nomer{
+    font-family: 'Rubik',sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+.contact-info{
+  font-family: 'Rubik',sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  margin-top: 10px;
+}
+.contact-hr{
+  width: 444px;
+  height: 2px;
+  border-radius:1px;
+  background-color: #D2D2D2;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+ 
