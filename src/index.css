@@ -112,7 +112,7 @@ ol {
     margin-left: 25px;
     margin-right: 25px;
     background-color: #dce6ff;
-    width: 70px;
+    width: 150px;
     height: 36px;
     border-radius: 39px;
     display: flex;
@@ -128,6 +128,10 @@ ol {
     }
     .Rus {
       padding-left: -5px;
+      background-color: #fff;
+      width: 50px;
+ 
+    border-radius: 39px;
     }
   }
   .Header__btn {
